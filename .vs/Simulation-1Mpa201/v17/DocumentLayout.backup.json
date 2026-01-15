@@ -1,145 +1,153 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "D:\\visual studio 2025\\Simulation-1Mpa201\\",
+  "WorkspaceRootPath": "C:\\Users\\Student\\source\\repos\\Ticket-1\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\visual studio 2025\\Simulation-1Mpa201\\Migrations\\20260115065140_LoginAdded.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Migrations\\20260115065140_LoginAdded.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{906582F5-8BE0-47C5-9A48-2992C9AE7210}|Simulation-1Mpa201.csproj|d:\\visual studio 2025\\simulation-1mpa201\\context\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{906582F5-8BE0-47C5-9A48-2992C9AE7210}|Simulation-1Mpa201.csproj|solutionrelative:context\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{906582F5-8BE0-47C5-9A48-2992C9AE7210}|Simulation-1Mpa201.csproj|d:\\visual studio 2025\\simulation-1mpa201\\models\\appuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{906582F5-8BE0-47C5-9A48-2992C9AE7210}|Simulation-1Mpa201.csproj|solutionrelative:models\\appuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{906582F5-8BE0-47C5-9A48-2992C9AE7210}|Simulation-1Mpa201.csproj|d:\\visual studio 2025\\simulation-1mpa201\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{906582F5-8BE0-47C5-9A48-2992C9AE7210}|Simulation-1Mpa201.csproj|solutionrelative:controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{906582F5-8BE0-47C5-9A48-2992C9AE7210}|Simulation-1Mpa201.csproj|d:\\visual studio 2025\\simulation-1mpa201\\viewmodels\\uservm\\registervm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{906582F5-8BE0-47C5-9A48-2992C9AE7210}|Simulation-1Mpa201.csproj|solutionrelative:viewmodels\\uservm\\registervm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{906582F5-8BE0-47C5-9A48-2992C9AE7210}|Simulation-1Mpa201.csproj|d:\\visual studio 2025\\simulation-1mpa201\\viewmodels\\uservm\\loginvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{906582F5-8BE0-47C5-9A48-2992C9AE7210}|Simulation-1Mpa201.csproj|solutionrelative:viewmodels\\uservm\\loginvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{906582F5-8BE0-47C5-9A48-2992C9AE7210}|Simulation-1Mpa201.csproj|d:\\visual studio 2025\\simulation-1mpa201\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{906582F5-8BE0-47C5-9A48-2992C9AE7210}|Simulation-1Mpa201.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{906582F5-8BE0-47C5-9A48-2992C9AE7210}|Simulation-1Mpa201.csproj|d:\\visual studio 2025\\simulation-1mpa201\\viewmodels\\employee\\employeeupdatevm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{906582F5-8BE0-47C5-9A48-2992C9AE7210}|Simulation-1Mpa201.csproj|solutionrelative:viewmodels\\employee\\employeeupdatevm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{906582F5-8BE0-47C5-9A48-2992C9AE7210}|Simulation-1Mpa201.csproj|d:\\visual studio 2025\\simulation-1mpa201\\areas\\admin\\views\\employee\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{906582F5-8BE0-47C5-9A48-2992C9AE7210}|Simulation-1Mpa201.csproj|solutionrelative:areas\\admin\\views\\employee\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{906582F5-8BE0-47C5-9A48-2992C9AE7210}|Simulation-1Mpa201.csproj|d:\\visual studio 2025\\simulation-1mpa201\\areas\\admin\\views\\employee\\update.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{906582F5-8BE0-47C5-9A48-2992C9AE7210}|Simulation-1Mpa201.csproj|solutionrelative:areas\\admin\\views\\employee\\update.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{906582F5-8BE0-47C5-9A48-2992C9AE7210}|Simulation-1Mpa201.csproj|d:\\visual studio 2025\\simulation-1mpa201\\areas\\admin\\views\\employee\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{906582F5-8BE0-47C5-9A48-2992C9AE7210}|Simulation-1Mpa201.csproj|solutionrelative:areas\\admin\\views\\employee\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{906582F5-8BE0-47C5-9A48-2992C9AE7210}|Simulation-1Mpa201.csproj|d:\\visual studio 2025\\simulation-1mpa201\\areas\\admin\\controllers\\employeecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{906582F5-8BE0-47C5-9A48-2992C9AE7210}|Simulation-1Mpa201.csproj|solutionrelative:areas\\admin\\controllers\\employeecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{906582F5-8BE0-47C5-9A48-2992C9AE7210}|Simulation-1Mpa201.csproj|d:\\visual studio 2025\\simulation-1mpa201\\areas\\admin\\controllers\\branchcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{906582F5-8BE0-47C5-9A48-2992C9AE7210}|Simulation-1Mpa201.csproj|c:\\users\\student\\source\\repos\\ticket-1\\areas\\admin\\controllers\\branchcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{906582F5-8BE0-47C5-9A48-2992C9AE7210}|Simulation-1Mpa201.csproj|solutionrelative:areas\\admin\\controllers\\branchcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{906582F5-8BE0-47C5-9A48-2992C9AE7210}|Simulation-1Mpa201.csproj|d:\\visual studio 2025\\simulation-1mpa201\\helpers\\extensionmethods.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{906582F5-8BE0-47C5-9A48-2992C9AE7210}|Simulation-1Mpa201.csproj|solutionrelative:helpers\\extensionmethods.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{906582F5-8BE0-47C5-9A48-2992C9AE7210}|Simulation-1Mpa201.csproj|c:\\users\\student\\source\\repos\\ticket-1\\areas\\admin\\controllers\\employeecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{906582F5-8BE0-47C5-9A48-2992C9AE7210}|Simulation-1Mpa201.csproj|solutionrelative:areas\\admin\\controllers\\employeecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{906582F5-8BE0-47C5-9A48-2992C9AE7210}|Simulation-1Mpa201.csproj|d:\\visual studio 2025\\simulation-1mpa201\\simulation-1mpa201.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
-      "RelativeMoniker": "D:0:0:{906582F5-8BE0-47C5-9A48-2992C9AE7210}|Simulation-1Mpa201.csproj|solutionrelative:simulation-1mpa201.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+      "AbsoluteMoniker": "D:0:0:{906582F5-8BE0-47C5-9A48-2992C9AE7210}|Simulation-1Mpa201.csproj|c:\\users\\student\\source\\repos\\ticket-1\\areas\\admin\\views\\branch\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{906582F5-8BE0-47C5-9A48-2992C9AE7210}|Simulation-1Mpa201.csproj|solutionrelative:areas\\admin\\views\\branch\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{906582F5-8BE0-47C5-9A48-2992C9AE7210}|Simulation-1Mpa201.csproj|d:\\visual studio 2025\\simulation-1mpa201\\areas\\admin\\controllers\\dashboardcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{906582F5-8BE0-47C5-9A48-2992C9AE7210}|Simulation-1Mpa201.csproj|solutionrelative:areas\\admin\\controllers\\dashboardcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{906582F5-8BE0-47C5-9A48-2992C9AE7210}|Simulation-1Mpa201.csproj|c:\\users\\student\\source\\repos\\ticket-1\\areas\\admin\\views\\employee\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{906582F5-8BE0-47C5-9A48-2992C9AE7210}|Simulation-1Mpa201.csproj|solutionrelative:areas\\admin\\views\\employee\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{906582F5-8BE0-47C5-9A48-2992C9AE7210}|Simulation-1Mpa201.csproj|d:\\visual studio 2025\\simulation-1mpa201\\viewmodels\\employee\\employeecreatevm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{906582F5-8BE0-47C5-9A48-2992C9AE7210}|Simulation-1Mpa201.csproj|solutionrelative:viewmodels\\employee\\employeecreatevm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{906582F5-8BE0-47C5-9A48-2992C9AE7210}|Simulation-1Mpa201.csproj|c:\\users\\student\\source\\repos\\ticket-1\\areas\\admin\\views\\employee\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{906582F5-8BE0-47C5-9A48-2992C9AE7210}|Simulation-1Mpa201.csproj|solutionrelative:areas\\admin\\views\\employee\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{906582F5-8BE0-47C5-9A48-2992C9AE7210}|Simulation-1Mpa201.csproj|d:\\visual studio 2025\\simulation-1mpa201\\viewmodels\\employee\\employeegetvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{906582F5-8BE0-47C5-9A48-2992C9AE7210}|Simulation-1Mpa201.csproj|solutionrelative:viewmodels\\employee\\employeegetvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{906582F5-8BE0-47C5-9A48-2992C9AE7210}|Simulation-1Mpa201.csproj|d:\\visual studio 2025\\simulation-1mpa201\\models\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{906582F5-8BE0-47C5-9A48-2992C9AE7210}|Simulation-1Mpa201.csproj|solutionrelative:models\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{906582F5-8BE0-47C5-9A48-2992C9AE7210}|Simulation-1Mpa201.csproj|d:\\visual studio 2025\\simulation-1mpa201\\migrations\\20260115040128_init.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{906582F5-8BE0-47C5-9A48-2992C9AE7210}|Simulation-1Mpa201.csproj|solutionrelative:migrations\\20260115040128_init.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{906582F5-8BE0-47C5-9A48-2992C9AE7210}|Simulation-1Mpa201.csproj|d:\\visual studio 2025\\simulation-1mpa201\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{906582F5-8BE0-47C5-9A48-2992C9AE7210}|Simulation-1Mpa201.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{906582F5-8BE0-47C5-9A48-2992C9AE7210}|Simulation-1Mpa201.csproj|d:\\visual studio 2025\\simulation-1mpa201\\configurations\\branchconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{906582F5-8BE0-47C5-9A48-2992C9AE7210}|Simulation-1Mpa201.csproj|solutionrelative:configurations\\branchconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{906582F5-8BE0-47C5-9A48-2992C9AE7210}|Simulation-1Mpa201.csproj|d:\\visual studio 2025\\simulation-1mpa201\\configurations\\employeeconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{906582F5-8BE0-47C5-9A48-2992C9AE7210}|Simulation-1Mpa201.csproj|solutionrelative:configurations\\employeeconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{906582F5-8BE0-47C5-9A48-2992C9AE7210}|Simulation-1Mpa201.csproj|d:\\visual studio 2025\\simulation-1mpa201\\models\\branch.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{906582F5-8BE0-47C5-9A48-2992C9AE7210}|Simulation-1Mpa201.csproj|solutionrelative:models\\branch.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{906582F5-8BE0-47C5-9A48-2992C9AE7210}|Simulation-1Mpa201.csproj|d:\\visual studio 2025\\simulation-1mpa201\\models\\common\\baseentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{906582F5-8BE0-47C5-9A48-2992C9AE7210}|Simulation-1Mpa201.csproj|solutionrelative:models\\common\\baseentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{906582F5-8BE0-47C5-9A48-2992C9AE7210}|Simulation-1Mpa201.csproj|d:\\visual studio 2025\\simulation-1mpa201\\areas\\admin\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{906582F5-8BE0-47C5-9A48-2992C9AE7210}|Simulation-1Mpa201.csproj|c:\\users\\student\\source\\repos\\ticket-1\\areas\\admin\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{906582F5-8BE0-47C5-9A48-2992C9AE7210}|Simulation-1Mpa201.csproj|solutionrelative:areas\\admin\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{906582F5-8BE0-47C5-9A48-2992C9AE7210}|Simulation-1Mpa201.csproj|d:\\visual studio 2025\\simulation-1mpa201\\areas\\admin\\views\\dashboard\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{906582F5-8BE0-47C5-9A48-2992C9AE7210}|Simulation-1Mpa201.csproj|solutionrelative:areas\\admin\\views\\dashboard\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{906582F5-8BE0-47C5-9A48-2992C9AE7210}|Simulation-1Mpa201.csproj|d:\\visual studio 2025\\simulation-1mpa201\\areas\\admin\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{906582F5-8BE0-47C5-9A48-2992C9AE7210}|Simulation-1Mpa201.csproj|solutionrelative:areas\\admin\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{906582F5-8BE0-47C5-9A48-2992C9AE7210}|Simulation-1Mpa201.csproj|d:\\visual studio 2025\\simulation-1mpa201\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{906582F5-8BE0-47C5-9A48-2992C9AE7210}|Simulation-1Mpa201.csproj|solutionrelative:views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{906582F5-8BE0-47C5-9A48-2992C9AE7210}|Simulation-1Mpa201.csproj|d:\\visual studio 2025\\simulation-1mpa201\\areas\\admin\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{906582F5-8BE0-47C5-9A48-2992C9AE7210}|Simulation-1Mpa201.csproj|solutionrelative:areas\\admin\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{906582F5-8BE0-47C5-9A48-2992C9AE7210}|Simulation-1Mpa201.csproj|d:\\visual studio 2025\\simulation-1mpa201\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{906582F5-8BE0-47C5-9A48-2992C9AE7210}|Simulation-1Mpa201.csproj|c:\\users\\student\\source\\repos\\ticket-1\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{906582F5-8BE0-47C5-9A48-2992C9AE7210}|Simulation-1Mpa201.csproj|solutionrelative:views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{906582F5-8BE0-47C5-9A48-2992C9AE7210}|Simulation-1Mpa201.csproj|d:\\visual studio 2025\\simulation-1mpa201\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{906582F5-8BE0-47C5-9A48-2992C9AE7210}|Simulation-1Mpa201.csproj|c:\\users\\student\\source\\repos\\ticket-1\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{906582F5-8BE0-47C5-9A48-2992C9AE7210}|Simulation-1Mpa201.csproj|solutionrelative:views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{906582F5-8BE0-47C5-9A48-2992C9AE7210}|Simulation-1Mpa201.csproj|d:\\visual studio 2025\\simulation-1mpa201\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{906582F5-8BE0-47C5-9A48-2992C9AE7210}|Simulation-1Mpa201.csproj|solutionrelative:views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{906582F5-8BE0-47C5-9A48-2992C9AE7210}|Simulation-1Mpa201.csproj|d:\\visual studio 2025\\simulation-1mpa201\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{906582F5-8BE0-47C5-9A48-2992C9AE7210}|Simulation-1Mpa201.csproj|c:\\users\\student\\source\\repos\\ticket-1\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{906582F5-8BE0-47C5-9A48-2992C9AE7210}|Simulation-1Mpa201.csproj|solutionrelative:controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{906582F5-8BE0-47C5-9A48-2992C9AE7210}|Simulation-1Mpa201.csproj|d:\\visual studio 2025\\simulation-1mpa201\\migrations\\20260115041154_init1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{906582F5-8BE0-47C5-9A48-2992C9AE7210}|Simulation-1Mpa201.csproj|c:\\users\\student\\source\\repos\\ticket-1\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{906582F5-8BE0-47C5-9A48-2992C9AE7210}|Simulation-1Mpa201.csproj|solutionrelative:controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{906582F5-8BE0-47C5-9A48-2992C9AE7210}|Simulation-1Mpa201.csproj|c:\\users\\student\\source\\repos\\ticket-1\\areas\\admin\\controllers\\dashboardcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{906582F5-8BE0-47C5-9A48-2992C9AE7210}|Simulation-1Mpa201.csproj|solutionrelative:areas\\admin\\controllers\\dashboardcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Student\\source\\repos\\Ticket-1\\Migrations\\20260115102647_1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Migrations\\20260115102647_1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{906582F5-8BE0-47C5-9A48-2992C9AE7210}|Simulation-1Mpa201.csproj|c:\\users\\student\\source\\repos\\ticket-1\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{906582F5-8BE0-47C5-9A48-2992C9AE7210}|Simulation-1Mpa201.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{906582F5-8BE0-47C5-9A48-2992C9AE7210}|Simulation-1Mpa201.csproj|c:\\users\\student\\source\\repos\\ticket-1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{906582F5-8BE0-47C5-9A48-2992C9AE7210}|Simulation-1Mpa201.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{906582F5-8BE0-47C5-9A48-2992C9AE7210}|Simulation-1Mpa201.csproj|c:\\users\\student\\source\\repos\\ticket-1\\migrations\\20260115065140_loginadded.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{906582F5-8BE0-47C5-9A48-2992C9AE7210}|Simulation-1Mpa201.csproj|solutionrelative:migrations\\20260115065140_loginadded.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{906582F5-8BE0-47C5-9A48-2992C9AE7210}|Simulation-1Mpa201.csproj|c:\\users\\student\\source\\repos\\ticket-1\\context\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{906582F5-8BE0-47C5-9A48-2992C9AE7210}|Simulation-1Mpa201.csproj|solutionrelative:context\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{906582F5-8BE0-47C5-9A48-2992C9AE7210}|Simulation-1Mpa201.csproj|c:\\users\\student\\source\\repos\\ticket-1\\models\\appuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{906582F5-8BE0-47C5-9A48-2992C9AE7210}|Simulation-1Mpa201.csproj|solutionrelative:models\\appuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{906582F5-8BE0-47C5-9A48-2992C9AE7210}|Simulation-1Mpa201.csproj|c:\\users\\student\\source\\repos\\ticket-1\\viewmodels\\uservm\\registervm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{906582F5-8BE0-47C5-9A48-2992C9AE7210}|Simulation-1Mpa201.csproj|solutionrelative:viewmodels\\uservm\\registervm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{906582F5-8BE0-47C5-9A48-2992C9AE7210}|Simulation-1Mpa201.csproj|c:\\users\\student\\source\\repos\\ticket-1\\viewmodels\\uservm\\loginvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{906582F5-8BE0-47C5-9A48-2992C9AE7210}|Simulation-1Mpa201.csproj|solutionrelative:viewmodels\\uservm\\loginvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{906582F5-8BE0-47C5-9A48-2992C9AE7210}|Simulation-1Mpa201.csproj|c:\\users\\student\\source\\repos\\ticket-1\\viewmodels\\employee\\employeeupdatevm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{906582F5-8BE0-47C5-9A48-2992C9AE7210}|Simulation-1Mpa201.csproj|solutionrelative:viewmodels\\employee\\employeeupdatevm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{906582F5-8BE0-47C5-9A48-2992C9AE7210}|Simulation-1Mpa201.csproj|c:\\users\\student\\source\\repos\\ticket-1\\areas\\admin\\views\\employee\\update.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{906582F5-8BE0-47C5-9A48-2992C9AE7210}|Simulation-1Mpa201.csproj|solutionrelative:areas\\admin\\views\\employee\\update.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{906582F5-8BE0-47C5-9A48-2992C9AE7210}|Simulation-1Mpa201.csproj|c:\\users\\student\\source\\repos\\ticket-1\\helpers\\extensionmethods.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{906582F5-8BE0-47C5-9A48-2992C9AE7210}|Simulation-1Mpa201.csproj|solutionrelative:helpers\\extensionmethods.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{906582F5-8BE0-47C5-9A48-2992C9AE7210}|Simulation-1Mpa201.csproj|c:\\users\\student\\source\\repos\\ticket-1\\simulation-1mpa201.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{906582F5-8BE0-47C5-9A48-2992C9AE7210}|Simulation-1Mpa201.csproj|solutionrelative:simulation-1mpa201.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{906582F5-8BE0-47C5-9A48-2992C9AE7210}|Simulation-1Mpa201.csproj|c:\\users\\student\\source\\repos\\ticket-1\\viewmodels\\employee\\employeecreatevm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{906582F5-8BE0-47C5-9A48-2992C9AE7210}|Simulation-1Mpa201.csproj|solutionrelative:viewmodels\\employee\\employeecreatevm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{906582F5-8BE0-47C5-9A48-2992C9AE7210}|Simulation-1Mpa201.csproj|c:\\users\\student\\source\\repos\\ticket-1\\viewmodels\\employee\\employeegetvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{906582F5-8BE0-47C5-9A48-2992C9AE7210}|Simulation-1Mpa201.csproj|solutionrelative:viewmodels\\employee\\employeegetvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{906582F5-8BE0-47C5-9A48-2992C9AE7210}|Simulation-1Mpa201.csproj|c:\\users\\student\\source\\repos\\ticket-1\\models\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{906582F5-8BE0-47C5-9A48-2992C9AE7210}|Simulation-1Mpa201.csproj|solutionrelative:models\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{906582F5-8BE0-47C5-9A48-2992C9AE7210}|Simulation-1Mpa201.csproj|c:\\users\\student\\source\\repos\\ticket-1\\migrations\\20260115040128_init.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{906582F5-8BE0-47C5-9A48-2992C9AE7210}|Simulation-1Mpa201.csproj|solutionrelative:migrations\\20260115040128_init.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{906582F5-8BE0-47C5-9A48-2992C9AE7210}|Simulation-1Mpa201.csproj|c:\\users\\student\\source\\repos\\ticket-1\\configurations\\branchconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{906582F5-8BE0-47C5-9A48-2992C9AE7210}|Simulation-1Mpa201.csproj|solutionrelative:configurations\\branchconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{906582F5-8BE0-47C5-9A48-2992C9AE7210}|Simulation-1Mpa201.csproj|c:\\users\\student\\source\\repos\\ticket-1\\configurations\\employeeconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{906582F5-8BE0-47C5-9A48-2992C9AE7210}|Simulation-1Mpa201.csproj|solutionrelative:configurations\\employeeconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{906582F5-8BE0-47C5-9A48-2992C9AE7210}|Simulation-1Mpa201.csproj|c:\\users\\student\\source\\repos\\ticket-1\\models\\branch.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{906582F5-8BE0-47C5-9A48-2992C9AE7210}|Simulation-1Mpa201.csproj|solutionrelative:models\\branch.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{906582F5-8BE0-47C5-9A48-2992C9AE7210}|Simulation-1Mpa201.csproj|c:\\users\\student\\source\\repos\\ticket-1\\models\\common\\baseentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{906582F5-8BE0-47C5-9A48-2992C9AE7210}|Simulation-1Mpa201.csproj|solutionrelative:models\\common\\baseentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{906582F5-8BE0-47C5-9A48-2992C9AE7210}|Simulation-1Mpa201.csproj|c:\\users\\student\\source\\repos\\ticket-1\\areas\\admin\\views\\dashboard\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{906582F5-8BE0-47C5-9A48-2992C9AE7210}|Simulation-1Mpa201.csproj|solutionrelative:areas\\admin\\views\\dashboard\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{906582F5-8BE0-47C5-9A48-2992C9AE7210}|Simulation-1Mpa201.csproj|c:\\users\\student\\source\\repos\\ticket-1\\areas\\admin\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{906582F5-8BE0-47C5-9A48-2992C9AE7210}|Simulation-1Mpa201.csproj|solutionrelative:areas\\admin\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{906582F5-8BE0-47C5-9A48-2992C9AE7210}|Simulation-1Mpa201.csproj|c:\\users\\student\\source\\repos\\ticket-1\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{906582F5-8BE0-47C5-9A48-2992C9AE7210}|Simulation-1Mpa201.csproj|solutionrelative:views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{906582F5-8BE0-47C5-9A48-2992C9AE7210}|Simulation-1Mpa201.csproj|c:\\users\\student\\source\\repos\\ticket-1\\areas\\admin\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{906582F5-8BE0-47C5-9A48-2992C9AE7210}|Simulation-1Mpa201.csproj|solutionrelative:areas\\admin\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{906582F5-8BE0-47C5-9A48-2992C9AE7210}|Simulation-1Mpa201.csproj|c:\\users\\student\\source\\repos\\ticket-1\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{906582F5-8BE0-47C5-9A48-2992C9AE7210}|Simulation-1Mpa201.csproj|solutionrelative:views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{906582F5-8BE0-47C5-9A48-2992C9AE7210}|Simulation-1Mpa201.csproj|c:\\users\\student\\source\\repos\\ticket-1\\migrations\\20260115041154_init1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{906582F5-8BE0-47C5-9A48-2992C9AE7210}|Simulation-1Mpa201.csproj|solutionrelative:migrations\\20260115041154_init1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -150,7 +158,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 9,
           "Children": [
             {
               "$type": "Bookmark",
@@ -158,50 +166,37 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "20260115065140_LoginAdded.cs",
-              "DocumentMoniker": "D:\\visual studio 2025\\Simulation-1Mpa201\\Migrations\\20260115065140_LoginAdded.cs",
-              "RelativeDocumentMoniker": "Migrations\\20260115065140_LoginAdded.cs",
-              "ToolTip": "D:\\visual studio 2025\\Simulation-1Mpa201\\Migrations\\20260115065140_LoginAdded.cs",
-              "RelativeToolTip": "Migrations\\20260115065140_LoginAdded.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-15T06:51:40.515Z",
+              "DocumentIndex": 2,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Student\\source\\repos\\Ticket-1\\Areas\\Admin\\Views\\Branch\\Index.cshtml",
+              "RelativeDocumentMoniker": "Areas\\Admin\\Views\\Branch\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Student\\source\\repos\\Ticket-1\\Areas\\Admin\\Views\\Branch\\Index.cshtml",
+              "RelativeToolTip": "Areas\\Admin\\Views\\Branch\\Index.cshtml",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAACIAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-01-15T10:55:48.222Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "RegisterVM.cs",
-              "DocumentMoniker": "D:\\visual studio 2025\\Simulation-1Mpa201\\ViewModels\\UserVM\\RegisterVM.cs",
-              "RelativeDocumentMoniker": "ViewModels\\UserVM\\RegisterVM.cs",
-              "ToolTip": "D:\\visual studio 2025\\Simulation-1Mpa201\\ViewModels\\UserVM\\RegisterVM.cs",
-              "RelativeToolTip": "ViewModels\\UserVM\\RegisterVM.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAAAAAAAAAAAA==",
+              "DocumentIndex": 8,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\Student\\source\\repos\\Ticket-1\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\Student\\source\\repos\\Ticket-1\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "Controllers\\HomeController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAjAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-15T06:48:47.105Z",
+              "WhenOpened": "2026-01-15T03:11:27.693Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "LoginVM.cs",
-              "DocumentMoniker": "D:\\visual studio 2025\\Simulation-1Mpa201\\ViewModels\\UserVM\\LoginVM.cs",
-              "RelativeDocumentMoniker": "ViewModels\\UserVM\\LoginVM.cs",
-              "ToolTip": "D:\\visual studio 2025\\Simulation-1Mpa201\\ViewModels\\UserVM\\LoginVM.cs",
-              "RelativeToolTip": "ViewModels\\UserVM\\LoginVM.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-15T06:45:19.265Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 9,
               "Title": "AccountController.cs",
-              "DocumentMoniker": "D:\\visual studio 2025\\Simulation-1Mpa201\\Controllers\\AccountController.cs",
+              "DocumentMoniker": "C:\\Users\\Student\\source\\repos\\Ticket-1\\Controllers\\AccountController.cs",
               "RelativeDocumentMoniker": "Controllers\\AccountController.cs",
-              "ToolTip": "D:\\visual studio 2025\\Simulation-1Mpa201\\Controllers\\AccountController.cs",
+              "ToolTip": "C:\\Users\\Student\\source\\repos\\Ticket-1\\Controllers\\AccountController.cs",
               "RelativeToolTip": "Controllers\\AccountController.cs",
               "ViewState": "AgIAACcAAAAAAAAAAAAAAEIAAAAVAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -210,37 +205,63 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "AppUser.cs",
-              "DocumentMoniker": "D:\\visual studio 2025\\Simulation-1Mpa201\\Models\\AppUser.cs",
-              "RelativeDocumentMoniker": "Models\\AppUser.cs",
-              "ToolTip": "D:\\visual studio 2025\\Simulation-1Mpa201\\Models\\AppUser.cs",
-              "RelativeToolTip": "Models\\AppUser.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAaAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-15T06:37:38.69Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "Update.cshtml",
-              "DocumentMoniker": "D:\\visual studio 2025\\Simulation-1Mpa201\\Areas\\Admin\\Views\\Employee\\Update.cshtml",
-              "RelativeDocumentMoniker": "Areas\\Admin\\Views\\Employee\\Update.cshtml",
-              "ToolTip": "D:\\visual studio 2025\\Simulation-1Mpa201\\Areas\\Admin\\Views\\Employee\\Update.cshtml",
-              "RelativeToolTip": "Areas\\Admin\\Views\\Employee\\Update.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAXAAAAAAAAAA==",
+              "DocumentIndex": 7,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Student\\source\\repos\\Ticket-1\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Student\\source\\repos\\Ticket-1\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAAIQAAAAAAAAAAAAAACEBAABCAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2026-01-15T06:26:22.283Z",
+              "WhenOpened": "2026-01-15T03:14:55.978Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 6,
+              "Title": "_ViewStart.cshtml",
+              "DocumentMoniker": "C:\\Users\\Student\\source\\repos\\Ticket-1\\Views\\_ViewStart.cshtml",
+              "RelativeDocumentMoniker": "Views\\_ViewStart.cshtml",
+              "ToolTip": "C:\\Users\\Student\\source\\repos\\Ticket-1\\Views\\_ViewStart.cshtml",
+              "RelativeToolTip": "Views\\_ViewStart.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-01-15T03:25:30.857Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\Student\\source\\repos\\Ticket-1\\Areas\\Admin\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "Areas\\Admin\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\Student\\source\\repos\\Ticket-1\\Areas\\Admin\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "Areas\\Admin\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAAMQAAAAAAAAAAIAwwOoAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-01-15T03:29:17.605Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Student\\source\\repos\\Ticket-1\\Areas\\Admin\\Views\\Employee\\Index.cshtml",
+              "RelativeDocumentMoniker": "Areas\\Admin\\Views\\Employee\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Student\\source\\repos\\Ticket-1\\Areas\\Admin\\Views\\Employee\\Index.cshtml",
+              "RelativeToolTip": "Areas\\Admin\\Views\\Employee\\Index.cshtml",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAswCsAAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-01-15T04:03:06.078Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
               "Title": "Create.cshtml",
-              "DocumentMoniker": "D:\\visual studio 2025\\Simulation-1Mpa201\\Areas\\Admin\\Views\\Employee\\Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\Student\\source\\repos\\Ticket-1\\Areas\\Admin\\Views\\Employee\\Create.cshtml",
               "RelativeDocumentMoniker": "Areas\\Admin\\Views\\Employee\\Create.cshtml",
-              "ToolTip": "D:\\visual studio 2025\\Simulation-1Mpa201\\Areas\\Admin\\Views\\Employee\\Create.cshtml",
+              "ToolTip": "C:\\Users\\Student\\source\\repos\\Ticket-1\\Areas\\Admin\\Views\\Employee\\Create.cshtml",
               "RelativeToolTip": "Areas\\Admin\\Views\\Employee\\Create.cshtml",
               "ViewState": "AgIAAAoAAAAAAAAAAAAkwCsAAAAGAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
@@ -249,114 +270,186 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
-              "Title": "EmployeeController.cs",
-              "DocumentMoniker": "D:\\visual studio 2025\\Simulation-1Mpa201\\Areas\\Admin\\Controllers\\EmployeeController.cs",
-              "RelativeDocumentMoniker": "Areas\\Admin\\Controllers\\EmployeeController.cs",
-              "ToolTip": "D:\\visual studio 2025\\Simulation-1Mpa201\\Areas\\Admin\\Controllers\\EmployeeController.cs",
-              "RelativeToolTip": "Areas\\Admin\\Controllers\\EmployeeController.cs",
-              "ViewState": "AgIAAF8AAAAAAAAAAAAkwHQAAAAHAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-15T03:26:48.703Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "AppDbContext.cs",
-              "DocumentMoniker": "D:\\visual studio 2025\\Simulation-1Mpa201\\Context\\AppDbContext.cs",
-              "RelativeDocumentMoniker": "Context\\AppDbContext.cs",
-              "ToolTip": "D:\\visual studio 2025\\Simulation-1Mpa201\\Context\\AppDbContext.cs",
-              "RelativeToolTip": "Context\\AppDbContext.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAA2AAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-15T03:36:25.462Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 13,
-              "Title": "ExtensionMethods.cs",
-              "DocumentMoniker": "D:\\visual studio 2025\\Simulation-1Mpa201\\Helpers\\ExtensionMethods.cs",
-              "RelativeDocumentMoniker": "Helpers\\ExtensionMethods.cs",
-              "ToolTip": "D:\\visual studio 2025\\Simulation-1Mpa201\\Helpers\\ExtensionMethods.cs",
-              "RelativeToolTip": "Helpers\\ExtensionMethods.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-15T04:36:38.87Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "Index.cshtml",
-              "DocumentMoniker": "D:\\visual studio 2025\\Simulation-1Mpa201\\Areas\\Admin\\Views\\Employee\\Index.cshtml",
-              "RelativeDocumentMoniker": "Areas\\Admin\\Views\\Employee\\Index.cshtml",
-              "ToolTip": "D:\\visual studio 2025\\Simulation-1Mpa201\\Areas\\Admin\\Views\\Employee\\Index.cshtml",
-              "RelativeToolTip": "Areas\\Admin\\Views\\Employee\\Index.cshtml",
-              "ViewState": "AgIAABUAAAAAAAAAAAAAAB0AAAAyAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2026-01-15T04:03:06.078Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 12,
+              "DocumentIndex": 0,
               "Title": "BranchController.cs",
-              "DocumentMoniker": "D:\\visual studio 2025\\Simulation-1Mpa201\\Areas\\Admin\\Controllers\\BranchController.cs",
+              "DocumentMoniker": "C:\\Users\\Student\\source\\repos\\Ticket-1\\Areas\\Admin\\Controllers\\BranchController.cs",
               "RelativeDocumentMoniker": "Areas\\Admin\\Controllers\\BranchController.cs",
-              "ToolTip": "D:\\visual studio 2025\\Simulation-1Mpa201\\Areas\\Admin\\Controllers\\BranchController.cs",
+              "ToolTip": "C:\\Users\\Student\\source\\repos\\Ticket-1\\Areas\\Admin\\Controllers\\BranchController.cs",
               "RelativeToolTip": "Areas\\Admin\\Controllers\\BranchController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAQAAAAAAAAAA==",
+              "ViewState": "AgIAACIAAAAAAAAAAAAgwD8AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-01-15T03:27:14.444Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 1,
+              "Title": "EmployeeController.cs",
+              "DocumentMoniker": "C:\\Users\\Student\\source\\repos\\Ticket-1\\Areas\\Admin\\Controllers\\EmployeeController.cs",
+              "RelativeDocumentMoniker": "Areas\\Admin\\Controllers\\EmployeeController.cs",
+              "ToolTip": "C:\\Users\\Student\\source\\repos\\Ticket-1\\Areas\\Admin\\Controllers\\EmployeeController.cs",
+              "RelativeToolTip": "Areas\\Admin\\Controllers\\EmployeeController.cs",
+              "ViewState": "AgIAAI0AAAAAAAAAAAAmwKwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-15T03:26:48.703Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "DashboardController.cs",
+              "DocumentMoniker": "C:\\Users\\Student\\source\\repos\\Ticket-1\\Areas\\Admin\\Controllers\\DashboardController.cs",
+              "RelativeDocumentMoniker": "Areas\\Admin\\Controllers\\DashboardController.cs",
+              "ToolTip": "C:\\Users\\Student\\source\\repos\\Ticket-1\\Areas\\Admin\\Controllers\\DashboardController.cs",
+              "RelativeToolTip": "Areas\\Admin\\Controllers\\DashboardController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-15T03:26:20.059Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "20260115102647_1.cs",
+              "DocumentMoniker": "C:\\Users\\Student\\source\\repos\\Ticket-1\\Migrations\\20260115102647_1.cs",
+              "RelativeDocumentMoniker": "Migrations\\20260115102647_1.cs",
+              "ToolTip": "C:\\Users\\Student\\source\\repos\\Ticket-1\\Migrations\\20260115102647_1.cs",
+              "RelativeToolTip": "Migrations\\20260115102647_1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-15T10:26:47.633Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
               "Title": "Program.cs",
-              "DocumentMoniker": "D:\\visual studio 2025\\Simulation-1Mpa201\\Program.cs",
+              "DocumentMoniker": "C:\\Users\\Student\\source\\repos\\Ticket-1\\Program.cs",
               "RelativeDocumentMoniker": "Program.cs",
-              "ToolTip": "D:\\visual studio 2025\\Simulation-1Mpa201\\Program.cs",
+              "ToolTip": "C:\\Users\\Student\\source\\repos\\Ticket-1\\Program.cs",
               "RelativeToolTip": "Program.cs",
-              "ViewState": "AgIAAAYAAAAAAAAAAAAUwBEAAAANAAAAAAAAAA==",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAqwCUAAAAdAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-01-15T03:17:18.038Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "EmployeeUpdateVM.cs",
-              "DocumentMoniker": "D:\\visual studio 2025\\Simulation-1Mpa201\\ViewModels\\Employee\\EmployeeUpdateVM.cs",
-              "RelativeDocumentMoniker": "ViewModels\\Employee\\EmployeeUpdateVM.cs",
-              "ToolTip": "D:\\visual studio 2025\\Simulation-1Mpa201\\ViewModels\\Employee\\EmployeeUpdateVM.cs",
-              "RelativeToolTip": "ViewModels\\Employee\\EmployeeUpdateVM.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAIAAAAAAAAAA==",
+              "DocumentIndex": 14,
+              "Title": "20260115065140_LoginAdded.cs",
+              "DocumentMoniker": "C:\\Users\\Student\\source\\repos\\Ticket-1\\Migrations\\20260115065140_LoginAdded.cs",
+              "RelativeDocumentMoniker": "Migrations\\20260115065140_LoginAdded.cs",
+              "ToolTip": "C:\\Users\\Student\\source\\repos\\Ticket-1\\Migrations\\20260115065140_LoginAdded.cs",
+              "RelativeToolTip": "Migrations\\20260115065140_LoginAdded.cs",
+              "ViewState": "AgIAAEMAAAAAAAAAAAAgwFUAAAARAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-15T04:04:02.977Z",
+              "WhenOpened": "2026-01-15T06:51:40.515Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 15,
-              "Title": "DashboardController.cs",
-              "DocumentMoniker": "D:\\visual studio 2025\\Simulation-1Mpa201\\Areas\\Admin\\Controllers\\DashboardController.cs",
-              "RelativeDocumentMoniker": "Areas\\Admin\\Controllers\\DashboardController.cs",
-              "ToolTip": "D:\\visual studio 2025\\Simulation-1Mpa201\\Areas\\Admin\\Controllers\\DashboardController.cs",
-              "RelativeToolTip": "Areas\\Admin\\Controllers\\DashboardController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAQAAAAAAAAAA==",
+              "DocumentIndex": 21,
+              "Title": "ExtensionMethods.cs",
+              "DocumentMoniker": "C:\\Users\\Student\\source\\repos\\Ticket-1\\Helpers\\ExtensionMethods.cs",
+              "RelativeDocumentMoniker": "Helpers\\ExtensionMethods.cs",
+              "ToolTip": "C:\\Users\\Student\\source\\repos\\Ticket-1\\Helpers\\ExtensionMethods.cs",
+              "RelativeToolTip": "Helpers\\ExtensionMethods.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-15T03:26:20.059Z"
+              "WhenOpened": "2026-01-15T04:36:38.87Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\Student\\source\\repos\\Ticket-1\\Context\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "Context\\AppDbContext.cs",
+              "ToolTip": "C:\\Users\\Student\\source\\repos\\Ticket-1\\Context\\AppDbContext.cs",
+              "RelativeToolTip": "Context\\AppDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAA2AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-15T03:36:25.462Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "Update.cshtml",
+              "DocumentMoniker": "C:\\Users\\Student\\source\\repos\\Ticket-1\\Areas\\Admin\\Views\\Employee\\Update.cshtml",
+              "RelativeDocumentMoniker": "Areas\\Admin\\Views\\Employee\\Update.cshtml",
+              "ToolTip": "C:\\Users\\Student\\source\\repos\\Ticket-1\\Areas\\Admin\\Views\\Employee\\Update.cshtml",
+              "RelativeToolTip": "Areas\\Admin\\Views\\Employee\\Update.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-01-15T06:26:22.283Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "AppUser.cs",
+              "DocumentMoniker": "C:\\Users\\Student\\source\\repos\\Ticket-1\\Models\\AppUser.cs",
+              "RelativeDocumentMoniker": "Models\\AppUser.cs",
+              "ToolTip": "C:\\Users\\Student\\source\\repos\\Ticket-1\\Models\\AppUser.cs",
+              "RelativeToolTip": "Models\\AppUser.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-15T06:37:38.69Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\Student\\source\\repos\\Ticket-1\\appsettings.json",
+              "RelativeDocumentMoniker": "appsettings.json",
+              "ToolTip": "C:\\Users\\Student\\source\\repos\\Ticket-1\\appsettings.json",
+              "RelativeToolTip": "appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAACAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-01-15T03:37:42.631Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "LoginVM.cs",
+              "DocumentMoniker": "C:\\Users\\Student\\source\\repos\\Ticket-1\\ViewModels\\UserVM\\LoginVM.cs",
+              "RelativeDocumentMoniker": "ViewModels\\UserVM\\LoginVM.cs",
+              "ToolTip": "C:\\Users\\Student\\source\\repos\\Ticket-1\\ViewModels\\UserVM\\LoginVM.cs",
+              "RelativeToolTip": "ViewModels\\UserVM\\LoginVM.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-15T06:45:19.265Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 17,
+              "Title": "RegisterVM.cs",
+              "DocumentMoniker": "C:\\Users\\Student\\source\\repos\\Ticket-1\\ViewModels\\UserVM\\RegisterVM.cs",
+              "RelativeDocumentMoniker": "ViewModels\\UserVM\\RegisterVM.cs",
+              "ToolTip": "C:\\Users\\Student\\source\\repos\\Ticket-1\\ViewModels\\UserVM\\RegisterVM.cs",
+              "RelativeToolTip": "ViewModels\\UserVM\\RegisterVM.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-15T06:48:47.105Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "EmployeeUpdateVM.cs",
+              "DocumentMoniker": "C:\\Users\\Student\\source\\repos\\Ticket-1\\ViewModels\\Employee\\EmployeeUpdateVM.cs",
+              "RelativeDocumentMoniker": "ViewModels\\Employee\\EmployeeUpdateVM.cs",
+              "ToolTip": "C:\\Users\\Student\\source\\repos\\Ticket-1\\ViewModels\\Employee\\EmployeeUpdateVM.cs",
+              "RelativeToolTip": "ViewModels\\Employee\\EmployeeUpdateVM.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-15T04:04:02.977Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
               "Title": "EmployeeGetVM.cs",
-              "DocumentMoniker": "D:\\visual studio 2025\\Simulation-1Mpa201\\ViewModels\\Employee\\EmployeeGetVM.cs",
+              "DocumentMoniker": "C:\\Users\\Student\\source\\repos\\Ticket-1\\ViewModels\\Employee\\EmployeeGetVM.cs",
               "RelativeDocumentMoniker": "ViewModels\\Employee\\EmployeeGetVM.cs",
-              "ToolTip": "D:\\visual studio 2025\\Simulation-1Mpa201\\ViewModels\\Employee\\EmployeeGetVM.cs",
+              "ToolTip": "C:\\Users\\Student\\source\\repos\\Ticket-1\\ViewModels\\Employee\\EmployeeGetVM.cs",
               "RelativeToolTip": "ViewModels\\Employee\\EmployeeGetVM.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAuAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -364,24 +457,23 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 14,
+              "DocumentIndex": 22,
               "Title": "Simulation-1Mpa201.csproj",
-              "DocumentMoniker": "D:\\visual studio 2025\\Simulation-1Mpa201\\Simulation-1Mpa201.csproj",
+              "DocumentMoniker": "C:\\Users\\Student\\Source\\Repos\\Ticket-1\\Simulation-1Mpa201.csproj",
               "RelativeDocumentMoniker": "Simulation-1Mpa201.csproj",
-              "ToolTip": "D:\\visual studio 2025\\Simulation-1Mpa201\\Simulation-1Mpa201.csproj",
+              "ToolTip": "C:\\Users\\Student\\Source\\Repos\\Ticket-1\\Simulation-1Mpa201.csproj",
               "RelativeToolTip": "Simulation-1Mpa201.csproj",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2026-01-15T03:16:33.601Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-01-15T03:16:33.601Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 16,
+              "DocumentIndex": 23,
               "Title": "EmployeeCreateVM.cs",
-              "DocumentMoniker": "D:\\visual studio 2025\\Simulation-1Mpa201\\ViewModels\\Employee\\EmployeeCreateVM.cs",
+              "DocumentMoniker": "C:\\Users\\Student\\source\\repos\\Ticket-1\\ViewModels\\Employee\\EmployeeCreateVM.cs",
               "RelativeDocumentMoniker": "ViewModels\\Employee\\EmployeeCreateVM.cs",
-              "ToolTip": "D:\\visual studio 2025\\Simulation-1Mpa201\\ViewModels\\Employee\\EmployeeCreateVM.cs",
+              "ToolTip": "C:\\Users\\Student\\source\\repos\\Ticket-1\\ViewModels\\Employee\\EmployeeCreateVM.cs",
               "RelativeToolTip": "ViewModels\\Employee\\EmployeeCreateVM.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -389,11 +481,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 34,
+              "DocumentIndex": 36,
               "Title": "20260115041154_Init1.cs",
-              "DocumentMoniker": "D:\\visual studio 2025\\Simulation-1Mpa201\\Migrations\\20260115041154_Init1.cs",
+              "DocumentMoniker": "C:\\Users\\Student\\source\\repos\\Ticket-1\\Migrations\\20260115041154_Init1.cs",
               "RelativeDocumentMoniker": "Migrations\\20260115041154_Init1.cs",
-              "ToolTip": "D:\\visual studio 2025\\Simulation-1Mpa201\\Migrations\\20260115041154_Init1.cs",
+              "ToolTip": "C:\\Users\\Student\\source\\repos\\Ticket-1\\Migrations\\20260115041154_Init1.cs",
               "RelativeToolTip": "Migrations\\20260115041154_Init1.cs",
               "ViewState": "AgIAAFcAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -401,11 +493,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 18,
+              "DocumentIndex": 25,
               "Title": "Employee.cs",
-              "DocumentMoniker": "D:\\visual studio 2025\\Simulation-1Mpa201\\Models\\Employee.cs",
+              "DocumentMoniker": "C:\\Users\\Student\\source\\repos\\Ticket-1\\Models\\Employee.cs",
               "RelativeDocumentMoniker": "Models\\Employee.cs",
-              "ToolTip": "D:\\visual studio 2025\\Simulation-1Mpa201\\Models\\Employee.cs",
+              "ToolTip": "C:\\Users\\Student\\source\\repos\\Ticket-1\\Models\\Employee.cs",
               "RelativeToolTip": "Models\\Employee.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAApAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -413,11 +505,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 19,
+              "DocumentIndex": 26,
               "Title": "20260115040128_Init.cs",
-              "DocumentMoniker": "D:\\visual studio 2025\\Simulation-1Mpa201\\Migrations\\20260115040128_Init.cs",
+              "DocumentMoniker": "C:\\Users\\Student\\source\\repos\\Ticket-1\\Migrations\\20260115040128_Init.cs",
               "RelativeDocumentMoniker": "Migrations\\20260115040128_Init.cs",
-              "ToolTip": "D:\\visual studio 2025\\Simulation-1Mpa201\\Migrations\\20260115040128_Init.cs",
+              "ToolTip": "C:\\Users\\Student\\source\\repos\\Ticket-1\\Migrations\\20260115040128_Init.cs",
               "RelativeToolTip": "Migrations\\20260115040128_Init.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -425,11 +517,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 21,
+              "DocumentIndex": 27,
               "Title": "BranchConfiguration.cs",
-              "DocumentMoniker": "D:\\visual studio 2025\\Simulation-1Mpa201\\Configurations\\BranchConfiguration.cs",
+              "DocumentMoniker": "C:\\Users\\Student\\source\\repos\\Ticket-1\\Configurations\\BranchConfiguration.cs",
               "RelativeDocumentMoniker": "Configurations\\BranchConfiguration.cs",
-              "ToolTip": "D:\\visual studio 2025\\Simulation-1Mpa201\\Configurations\\BranchConfiguration.cs",
+              "ToolTip": "C:\\Users\\Student\\source\\repos\\Ticket-1\\Configurations\\BranchConfiguration.cs",
               "RelativeToolTip": "Configurations\\BranchConfiguration.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -437,11 +529,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 22,
+              "DocumentIndex": 28,
               "Title": "EmployeeConfiguration.cs",
-              "DocumentMoniker": "D:\\visual studio 2025\\Simulation-1Mpa201\\Configurations\\EmployeeConfiguration.cs",
+              "DocumentMoniker": "C:\\Users\\Student\\source\\repos\\Ticket-1\\Configurations\\EmployeeConfiguration.cs",
               "RelativeDocumentMoniker": "Configurations\\EmployeeConfiguration.cs",
-              "ToolTip": "D:\\visual studio 2025\\Simulation-1Mpa201\\Configurations\\EmployeeConfiguration.cs",
+              "ToolTip": "C:\\Users\\Student\\source\\repos\\Ticket-1\\Configurations\\EmployeeConfiguration.cs",
               "RelativeToolTip": "Configurations\\EmployeeConfiguration.cs",
               "ViewState": "AgIAAAMAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -449,11 +541,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 23,
+              "DocumentIndex": 29,
               "Title": "Branch.cs",
-              "DocumentMoniker": "D:\\visual studio 2025\\Simulation-1Mpa201\\Models\\Branch.cs",
+              "DocumentMoniker": "C:\\Users\\Student\\source\\repos\\Ticket-1\\Models\\Branch.cs",
               "RelativeDocumentMoniker": "Models\\Branch.cs",
-              "ToolTip": "D:\\visual studio 2025\\Simulation-1Mpa201\\Models\\Branch.cs",
+              "ToolTip": "C:\\Users\\Student\\source\\repos\\Ticket-1\\Models\\Branch.cs",
               "RelativeToolTip": "Models\\Branch.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAA0AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -461,11 +553,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 24,
+              "DocumentIndex": 30,
               "Title": "BaseEntity.cs",
-              "DocumentMoniker": "D:\\visual studio 2025\\Simulation-1Mpa201\\Models\\Common\\BaseEntity.cs",
+              "DocumentMoniker": "C:\\Users\\Student\\source\\repos\\Ticket-1\\Models\\Common\\BaseEntity.cs",
               "RelativeDocumentMoniker": "Models\\Common\\BaseEntity.cs",
-              "ToolTip": "D:\\visual studio 2025\\Simulation-1Mpa201\\Models\\Common\\BaseEntity.cs",
+              "ToolTip": "C:\\Users\\Student\\source\\repos\\Ticket-1\\Models\\Common\\BaseEntity.cs",
               "RelativeToolTip": "Models\\Common\\BaseEntity.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAVAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -473,35 +565,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 20,
-              "Title": "appsettings.json",
-              "DocumentMoniker": "D:\\visual studio 2025\\Simulation-1Mpa201\\appsettings.json",
-              "RelativeDocumentMoniker": "appsettings.json",
-              "ToolTip": "D:\\visual studio 2025\\Simulation-1Mpa201\\appsettings.json",
-              "RelativeToolTip": "appsettings.json",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAmAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2026-01-15T03:37:42.631Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 25,
-              "Title": "_Layout.cshtml",
-              "DocumentMoniker": "D:\\visual studio 2025\\Simulation-1Mpa201\\Areas\\Admin\\Views\\Shared\\_Layout.cshtml",
-              "RelativeDocumentMoniker": "Areas\\Admin\\Views\\Shared\\_Layout.cshtml",
-              "ToolTip": "D:\\visual studio 2025\\Simulation-1Mpa201\\Areas\\Admin\\Views\\Shared\\_Layout.cshtml",
-              "RelativeToolTip": "Areas\\Admin\\Views\\Shared\\_Layout.cshtml",
-              "ViewState": "AgIAAJMAAAAAAAAAAAAkwE8BAAAHAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2026-01-15T03:29:17.605Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 26,
+              "DocumentIndex": 31,
               "Title": "Index.cshtml",
-              "DocumentMoniker": "D:\\visual studio 2025\\Simulation-1Mpa201\\Areas\\Admin\\Views\\Dashboard\\Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Student\\source\\repos\\Ticket-1\\Areas\\Admin\\Views\\Dashboard\\Index.cshtml",
               "RelativeDocumentMoniker": "Areas\\Admin\\Views\\Dashboard\\Index.cshtml",
-              "ToolTip": "D:\\visual studio 2025\\Simulation-1Mpa201\\Areas\\Admin\\Views\\Dashboard\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Student\\source\\repos\\Ticket-1\\Areas\\Admin\\Views\\Dashboard\\Index.cshtml",
               "RelativeToolTip": "Areas\\Admin\\Views\\Dashboard\\Index.cshtml",
               "ViewState": "AgIAAOUCAAAAAAAAAAAkwAcDAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
@@ -509,11 +577,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 27,
+              "DocumentIndex": 32,
               "Title": "_ViewImports.cshtml",
-              "DocumentMoniker": "D:\\visual studio 2025\\Simulation-1Mpa201\\Areas\\Admin\\Views\\_ViewImports.cshtml",
+              "DocumentMoniker": "C:\\Users\\Student\\source\\repos\\Ticket-1\\Areas\\Admin\\Views\\_ViewImports.cshtml",
               "RelativeDocumentMoniker": "Areas\\Admin\\Views\\_ViewImports.cshtml",
-              "ToolTip": "D:\\visual studio 2025\\Simulation-1Mpa201\\Areas\\Admin\\Views\\_ViewImports.cshtml",
+              "ToolTip": "C:\\Users\\Student\\source\\repos\\Ticket-1\\Areas\\Admin\\Views\\_ViewImports.cshtml",
               "RelativeToolTip": "Areas\\Admin\\Views\\_ViewImports.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
@@ -521,11 +589,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 29,
+              "DocumentIndex": 34,
               "Title": "_ViewStart.cshtml",
-              "DocumentMoniker": "D:\\visual studio 2025\\Simulation-1Mpa201\\Areas\\Admin\\Views\\_ViewStart.cshtml",
+              "DocumentMoniker": "C:\\Users\\Student\\source\\repos\\Ticket-1\\Areas\\Admin\\Views\\_ViewStart.cshtml",
               "RelativeDocumentMoniker": "Areas\\Admin\\Views\\_ViewStart.cshtml",
-              "ToolTip": "D:\\visual studio 2025\\Simulation-1Mpa201\\Areas\\Admin\\Views\\_ViewStart.cshtml",
+              "ToolTip": "C:\\Users\\Student\\source\\repos\\Ticket-1\\Areas\\Admin\\Views\\_ViewStart.cshtml",
               "RelativeToolTip": "Areas\\Admin\\Views\\_ViewStart.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
@@ -533,11 +601,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 28,
+              "DocumentIndex": 33,
               "Title": "_ViewImports.cshtml",
-              "DocumentMoniker": "D:\\visual studio 2025\\Simulation-1Mpa201\\Views\\_ViewImports.cshtml",
+              "DocumentMoniker": "C:\\Users\\Student\\source\\repos\\Ticket-1\\Views\\_ViewImports.cshtml",
               "RelativeDocumentMoniker": "Views\\_ViewImports.cshtml",
-              "ToolTip": "D:\\visual studio 2025\\Simulation-1Mpa201\\Views\\_ViewImports.cshtml",
+              "ToolTip": "C:\\Users\\Student\\source\\repos\\Ticket-1\\Views\\_ViewImports.cshtml",
               "RelativeToolTip": "Views\\_ViewImports.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
@@ -545,51 +613,15 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 30,
-              "Title": "_ViewStart.cshtml",
-              "DocumentMoniker": "D:\\visual studio 2025\\Simulation-1Mpa201\\Views\\_ViewStart.cshtml",
-              "RelativeDocumentMoniker": "Views\\_ViewStart.cshtml",
-              "ToolTip": "D:\\visual studio 2025\\Simulation-1Mpa201\\Views\\_ViewStart.cshtml",
-              "RelativeToolTip": "Views\\_ViewStart.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2026-01-15T03:25:30.857Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 32,
+              "DocumentIndex": 35,
               "Title": "_Layout.cshtml",
-              "DocumentMoniker": "D:\\visual studio 2025\\Simulation-1Mpa201\\Views\\Shared\\_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\Student\\source\\repos\\Ticket-1\\Views\\Shared\\_Layout.cshtml",
               "RelativeDocumentMoniker": "Views\\Shared\\_Layout.cshtml",
-              "ToolTip": "D:\\visual studio 2025\\Simulation-1Mpa201\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\Student\\source\\repos\\Ticket-1\\Views\\Shared\\_Layout.cshtml",
               "RelativeToolTip": "Views\\Shared\\_Layout.cshtml",
               "ViewState": "AgIAAAYAAAAAAAAAAAAAABMAAABbAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2026-01-15T03:17:44.016Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 31,
-              "Title": "Index.cshtml",
-              "DocumentMoniker": "D:\\visual studio 2025\\Simulation-1Mpa201\\Views\\Home\\Index.cshtml",
-              "RelativeDocumentMoniker": "Views\\Home\\Index.cshtml",
-              "ToolTip": "D:\\visual studio 2025\\Simulation-1Mpa201\\Views\\Home\\Index.cshtml",
-              "RelativeToolTip": "Views\\Home\\Index.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAA1AAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2026-01-15T03:14:55.978Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 33,
-              "Title": "HomeController.cs",
-              "DocumentMoniker": "D:\\visual studio 2025\\Simulation-1Mpa201\\Controllers\\HomeController.cs",
-              "RelativeDocumentMoniker": "Controllers\\HomeController.cs",
-              "ToolTip": "D:\\visual studio 2025\\Simulation-1Mpa201\\Controllers\\HomeController.cs",
-              "RelativeToolTip": "Controllers\\HomeController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-15T03:11:27.693Z"
             }
           ]
         }

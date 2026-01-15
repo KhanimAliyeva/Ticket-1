@@ -988,3 +988,7 @@ wwwroot\assets\scss\bootstrap\scss\_transitions.scss
 wwwroot\assets\scss\bootstrap\scss\_type.scss
 wwwroot\assets\scss\bootstrap\scss\_utilities.scss
 wwwroot\assets\scss\bootstrap\scss\_variables.scss
+wwwroot\assets\img\4258ef21-3fd5-444a-9f62-6b4166bd2398testimonial-2.jpg
+wwwroot\assets\img\4fd4520c-2991-49bc-9563-804cc8720b2etestimonial-4.jpg
+wwwroot\assets\img\46030f20-4e6b-4f70-9bc2-c3ce026f06e6user.jpg
+wwwroot\assets\img\92d33fcd-9f1f-4a73-9bf9-723b35e8f781comment1.jpg
